@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/diffuse_reflect_refract.png
+image: ../images/diff_refl_refr.png
 title: Hobby Pathtracer
 permalink: projects/Pathtracer
 date: 2016
