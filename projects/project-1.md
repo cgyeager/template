@@ -1,26 +1,23 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: https://github.com/cgyeager/hobby_pathtracer/blob/master/source/images/diffuse_reflect_refract.png
+title: Hobby Pathtracer
+permalink: projects/Pathtracer
+date: 2016
 labels:
-  - Robotics
-  - Arduino
+  - Digital Image Synthesis
+  - Computer Graphics
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: A small path tracer I developed over the summer.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="https://github.com/cgyeager/hobby_pathtracer/blob/master/source/images/diffuse_reflect_refract.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is a project implementing the path tracing algorithm that was used by Dr. Kajiya in the 1980s to approximate a solution to the rendering equation. It is basically a more general version of a ray tracer. A ray is cast from the camera into the scene and depending on the material the ray intersects it will reflect in a random direction. A new ray will then be cast from that hit point and detect another intersection (or not) in the random direction chosen. This will keep happening until the ray intersects with a light, the hemisphere above the scene in this case, or the depth of the recursive function is equal or greater than the max depth. This is what happens in the recursive function Radiance(). 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Before I started this project I read and implemented the ray tracer described in the book Ray Tracing from the Ground Up by Kevin Suffern to get a good understanding of the algorithm and also some of theory required to understand it. Afterward I read Advanced Global Illumination by Dutre et al. to gain a deeper understanding. 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+If anyone is interested in learning more about ray tracing based algorithms I recommend [Scratchapixel](https://www.scratchapixel.com)
