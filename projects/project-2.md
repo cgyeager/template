@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/heightmap_terrain.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: JankyEngine
+permalink: projects/JankyEngine
+date: 2016
 labels:
   - OpenGL
   - Realtime Graphics
