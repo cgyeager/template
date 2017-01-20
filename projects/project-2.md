@@ -1,24 +1,28 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/heightmap_terrain.png
 title: Vacay
 permalink: projects/vacay
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - OpenGL
+  - Realtime Graphics
+  - C++
+summary: A library of code I've been working on while I learn real-time graphics.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/heightmap_terrain.png">
+<img class="ui medium right floated rounded image" src="../images/normal_mapping.png">
+<img class="ui medium right floated rounded image" src="../images/wiremesh_model.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is a library of code I've been working on in between semesters as I learn more about real-time graphics. It uses the OpenGL api to interact with the GPU. It also uses SDL to provide a window and user I/O, Asset Importer Library to load 3D models and Freetype font to render font to the screen.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Some features it currently has are heightmap terrain, multitexturing, normal mapping, and point shadows.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Some of the code is a bit messy especially in main.hpp and main.cpp because this is were I'm constantly testing out new features and trying to get things to function correctly before I wrap them up into a class.
+
+To learn real-time graphics I read the book Interactive Computer Graphics: A Top-Down Approach by Edward Angel and I watched the entire lecture series on graphics from UC Davis that is available on YouTube.
+
+
+Source: <a href="https://github.com//cgyeager/JankyEngine"><i class="large github icon"></i></a>
