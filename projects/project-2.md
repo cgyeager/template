@@ -20,7 +20,7 @@ This is a library of code I've been working on in between semesters as I learn m
 
 Some features it currently has are heightmap terrain, multitexturing, normal mapping, and point shadows.
 
-Some of the code is a bit messy especially in main.hpp and main.cpp because this is were I'm constantly testing out new features and trying to get things to function correctly before I wrap them up into a class.
+Some of the code is a bit messy especially in main.hpp and main.cpp because this is where I'm constantly testing out new features and trying to get things to function correctly before I wrap them up into a class.
 
 To learn real-time graphics I read the book Interactive Computer Graphics: A Top-Down Approach by Edward Angel and I watched the entire lecture series on graphics from UC Davis that is available on YouTube.
 
