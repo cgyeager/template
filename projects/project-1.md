@@ -20,6 +20,4 @@ This is a project implementing the path tracing algorithm that was used by Dr. K
 
 Before I started this project I read and implemented the ray tracer described in the book Ray Tracing from the Ground Up by Kevin Suffern to get a good understanding of the algorithm and also some of the theory required to understand it. Afterward I read Advanced Global Illumination by Dutre et al. to gain a deeper understanding. 
 
-[Hobby Pathtracer on Github](https://github.com/cgyeager/hobby_pathtracer)
-
-If anyone is interested in learning more about ray tracing based algorithms I recommend [Scratchapixel](https://www.scratchapixel.com)
+ Source: <a href="https://github.com/cgyeager/hobby_pathtracer"><i class="large github icon"></i>Hobby Path Tracer</a>
