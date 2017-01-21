@@ -13,7 +13,7 @@ labels:
 summary: A Scheme interpreter.
 ---
   I am currently involved in a student project hosted by the Electrical Engineering Department at UH Manoa to create a
-Scheme to C compiler. The project is split into two semesters. The first semester is implmenting a Scheme interpreter. It is
+Scheme to C compiler. The project is split into two semesters. The first semester involves implementing a Scheme interpreter. It is
 organized into three different teams. The teams are Parsing/IO, Core Systems, and Testing and Design. I have joined the Parsing/IO
 team. 
 	
