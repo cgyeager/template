@@ -11,7 +11,7 @@ will get used to it in time. I like that it is easy to learn and easy to use, un
 many hours to strange errors in C++.
 	
 I must confess, one thing that I'm really excited about with Javascript is using WebGL. The first thing I did after learning the
-basics of Javascript was to get a rotating triangle on my web browser. I was suprised at how much faster it is to use WebGL than
+basics of Javascript was to get a rotating triangle on my web browser. I was suprising at how much faster it is to use WebGL than
 it is using OpenGL with C or C++. Once I become more proficient in Javascript I think will do all my prototyping in WebGL.
 
 I'm currently taking the software engineering course at UH Manoa and the professor is having the students do something called
