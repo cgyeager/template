@@ -15,7 +15,7 @@ summary: A library of code I've been working on while I learn real-time graphics
 <img class="ui medium right floated rounded image" src="../images/heightmap_terrain.png">
 <img class="ui medium right floated rounded image" src="../images/normal_mapping.png">
 <img class="ui medium right floated rounded image" src="../images/wireframe_mesh.png">
-
+<br> </br>
 This is a library of code I've been working on in between semesters as I learn more about real-time graphics. It uses the OpenGL api to interact with the GPU. It also uses SDL to provide a window and user I/O, Asset Importer Library to load 3D models and Freetype font to render font to the screen.
 
 Some features it currently has are heightmap terrain, multitexturing, normal mapping, and point shadows.
