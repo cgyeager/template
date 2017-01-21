@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/375px-Lambda_lc.svg.png
+image: images/375px-Lambda_lc.svg.png
 title: Cotton
 permalink: projects/cotton
 date: 2014
