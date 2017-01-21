@@ -86,6 +86,12 @@
       "endDate": "Present",
       "gpa": "3.8",
       "courses": [
+	      "ICS 311",
+	      "ICS 314",
+        "ICS 321",
+        "ICS 435",
+        "MATH 311",
+        "MATH 471"
       ]
     }
   ],
@@ -114,7 +120,14 @@
       ]
     }
   ],
-
+ "awards": [
+    {
+      "title": "Dean\'s List",
+      "date": "2016",
+      "awarder": "Dean of UH Manoa",
+      "summary": ""
+    },
+  ],
   "references": [
     {
       "name": "Available upon request",
