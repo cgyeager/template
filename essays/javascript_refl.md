@@ -14,6 +14,7 @@ I must confess, one thing that I'm really excited about with Javascript is using
 basics of Javascript was to get a rotating triangle on my web browser. I was suprised at how much faster it is to use WebGL than
 it is using OpenGL with C or C++. Once I become more proficient in Javascript I think will do all my prototyping in WebGL.
 
+I'm currently taking the software engineering course at UH Manoa and the professor is having the students do Word
 I think WODs will be a useful exercise. I know some software engineering jobs out there like to test potential recruits with
 programming exercises and I think the pressure put on us to finish a working program in a short amount of time is good practice.
 Also during the first WOD I realized I didn't know how to manipulate Javascript strings. I took a leap of faith and treated the
