@@ -29,26 +29,25 @@
   },
   "interests": [
     {
+      "name": "software engineering",
+      "keywords": [
+
+      ]
+    },    
+    {
       "name": "graphics",
       "keywords": [
-        "opengl",
-        "ray tracer",
-        "rendering"
+
       ]
     },
     {
       "name": "operating systems",
       "keywords": [
-        "linux",
-        "device drivers",
-        "x86",
-        "assembly"
       ]
     },
     {
       "name": "embedded software",
       "keywords": [
-        "Arduino"
       ]
     }
   ],
@@ -59,7 +58,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "C#",
         "Javascript",
         "Assembly",
         "Common Lisp"
@@ -92,16 +91,26 @@
   ],
   "work": [
     {
+      "company": "Specialized Protective Services",
+      "position": "Information Systems Technician",
+      "website": "https://aspensecurity.net",
+      "startDate": "2012-11-12",
+      "endDate": "2013-05-02",
+      "summary": "",
+      "highlights": [
+        "Security contractor."
+      ]
+    },
+    {
       "company": "US Navy",
       "position": "Information Systems Technician",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "http://www.navy.com",
       "startDate": "2008-07-02",
       "endDate": "2012-07-02",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Maintain multiple classified LANs",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain multiple classified computer networks."
+        "Top Secret security clearance."
       ]
     }
   ],
