@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/heightmap_terrain.png
-title: JankyEngine
-permalink: projects/JankyEngine
+title: GLEngine
+permalink: projects/GLEngine
 date: 2016
 labels:
   - OpenGL
@@ -28,4 +28,4 @@ and trying to get things to function correctly before I wrap them up into a clas
 To learn real-time graphics I read the book Interactive Computer Graphics: A Top-Down Approach by Edward Angel and I watched the
 entire lecture series on graphics from UC Davis that is available on YouTube.
 
-Source: <a href="https://github.com//cgyeager/JankyEngine"><i class="large github icon"></i>JankyEngine</a>
+Source: <a href="https://github.com//cgyeager/JankyEngine"><i class="large github icon"></i>GLEngine</a>
