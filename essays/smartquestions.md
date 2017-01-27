@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: Smart Questions
+date: 2016-01-26
+labels:
+  - Smart questions
+  - Stack Overflow
+---	
 	Asking smart questions is an important skill for any software engineer. Nowhere is this more evident than on the 
   Stack Overflow Q/A website. A quick peruse through and one can quickly find both  smartly asked questions and 
   some, well, not so smart.
