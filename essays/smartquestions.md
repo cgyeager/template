@@ -30,9 +30,9 @@ and although I knew I was supposed to have done so, I kept over looking it in th
 question, from over a year ago, I think it's not a terrible question but not necessarily great. 
 
 My question was not terrible because I was very succint in getting my point across. I copied and pasted the
-snippet of code I was working on to show what I was working with and the problem was very specific so I 
-couldn't really look anything up on it to help. It wasn't great either. It was a silly problem that I should 
-have easily noticed. Yet I didn't recieve any snarky remarks either, so that's always good.
+snippet of code I was working on to show what I was doing. Also, the problem was very specific so I 
+couldn't really look anything up on it to help. It wasn't a great question either. It was a silly problem that 
+I should have easily noticed. Yet I didn't recieve any snarky remarks, so that's always good.
 
 It’s easy to see just from these two questions that asking the right question the right way will provide 
 better answers instead of rude comments from developers who feel like you’ve wasted their time.
