@@ -22,6 +22,13 @@ with some example code to help him understand how the error could occur. The com
 write the code to test it himself. Basically, the asker was looking for someone else to do the work for 
 him. Definitately not a great question.
 
+There is also the only question I have ever asked on the Stack Overflow. I've been using Stack Overflow for 
+years, even before I started my studies at UH, but I have always found the answers that I needed without 
+having to ask. The problem I was experiencing was due to undefined behavior in C. It was a really simply 
+program to count the number of bits in an unsigned integer. The problem was I didn't initialize a variable 
+and although I knew I was supposed to have done so, I kept over looking it in the code. Looking back on my 
+question, from over a year ago, I think it's not a terrible question but not necessarily great. 
+
 My question was not terrible because I was very succint in getting my point across. I copied and pasted the
 snippet of code I was working on to show what I was working with and the problem was very specific so I 
 couldn't really look anything up on it to help. It wasn't great either. It was a silly problem that I should 
