@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: Thoughts on configuration management
+date: 2016-02-02
+labels:
+  - Configuration Management
+  - Github
+---
 My only experience with configuration management has been with git and Github. 
 I've personally only used it so I could easily work on the same source code 
 using two different machines, my laptop and desktop. Using it this way is 
