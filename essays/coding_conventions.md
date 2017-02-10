@@ -15,21 +15,21 @@ thing that I like do to, that I notice most people don’t, is set my curly brac
 For example:  
    
 if (some condtion)   
-{   
+{    
     do something   
 }    
-else   
-{   
-   do something else   
-}   
+else      
+{    
+    do something else   
+}    
     
 Now compare that to:    
     
-if (some condtion) {    
+if (some condtion) {        
     do something   
-} else {     
+} else {    
     do something else    
-}    
+}     
     
 The second option drives me insane. I feel like I have to search for the curly braces and the 
 else statement. What if there is a missing brace? It is so much easier to find a missing brace 
