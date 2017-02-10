@@ -5,6 +5,7 @@ title: Musings on spaces, braces and Hungarian Notation.
 date: 2016-02-9
 labels:
   - Coding conventions
+  - Hungarian Notation
 ---
 
   I believe coding standards are an important concept for writing code. I think for the most part 
