@@ -1,5 +1,13 @@
+---
+layout: essay
+type: essay
+title: Musings on spaces, braces and Hungarian Notation.
+date: 2016-02-9
+labels:
+  - Coding conventions
+---
 
-	I believe coding standards are an important concept for writing code. I think for the most part 
+  I believe coding standards are an important concept for writing code. I think for the most part 
 it improves readablity and therefore it is then easier to think about and maintain the code. One 
 particular way I like to structure my code is to have code that is directly related to each other 
 be clumped together with white space seperating it from other code. Another thing that I like do 
