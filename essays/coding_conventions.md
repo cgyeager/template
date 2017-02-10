@@ -15,24 +15,24 @@ be clumped together with white space seperating it from other code. Another thin
 to, that I notice most people don’t, is set my curly braces on a new line.
 
 For example:
-
-if (some condtion)
-{
-	do something
-}
-else
-{
-	do something else
-}
-  
-Now compare that to:
-
-if (some condtion) {
-	do something
-} else {
-	do something else
-}
-
+    
+if (some condtion)    
+{    
+    do something
+}    
+else    
+{    
+    do something else
+}    
+    
+Now compare that to:    
+     
+if (some condtion) {    
+    do something
+} else {    
+    do something else
+}   
+   
 The second option drives me insane. I feel like I have to search for the curly braces and the else 
 statement. What if there is a missing brace? It is so much easier to find a missing brace in the first 
 option. Smart use of use of white space with proper indention makes everything so much easier to 
