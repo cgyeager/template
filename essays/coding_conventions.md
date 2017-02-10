@@ -1,5 +1,12 @@
-
-	I believe coding standards are an important concept for writing code. I think for the most 
+---
+layout: essay
+type: essay
+title: Musings on spaces and braces
+date: 2016-02-09
+labels:
+  - Coding Conventions
+---
+  I believe coding standards are an important concept for writing code. I think for the most 
 part it improves readablity and therefore it is then easier to think about and maintain the 
 code. One particular way I like to structure my code is to have code that is directly related 
 to each other be clumped together with white space seperating it from other code. Another 
