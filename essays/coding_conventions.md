@@ -38,8 +38,11 @@ much easier to understand. This is one reason I think python makes a great langu
 for someone’s first time, because it forces indention for readability.
 	
   Although I think coding standards improve readability, there are some that make it worse. The 
-first time I encountered Win32 programming I found some very strange names coming from Microsoft.  
-Take this for example: LPCTSTR lpString. Obviously it’s some sort of string but what is ‘lp’ in 
+first time I encountered Win32 programming I found some very strange names coming from Microsoft.
+      
+Take this for example: LPCTSTR lpString.     
+    
+Obviously it’s some sort of string but what is ‘lp’ in 
 the variable name? Or even worse what is ‘LPCT’? If you follow the trail far enough on MSDN, you 
 will eventually find it is just a char pointer. This type of code is all over the place once you 
 include the Windows header and it’s an eyesore to say the least. I had to constantly look up 
