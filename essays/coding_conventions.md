@@ -48,4 +48,3 @@ will eventually find it is just a char pointer. This type of code is all over th
 include the Windows header and it’s an eyesore to say the least. I had to constantly look up 
 these little acronyms to make sure I understood what I was working with. This notation is called 
 Hungarian notation and it should be condemned to lowest depths of hell.
-	
