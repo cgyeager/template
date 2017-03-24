@@ -1,4 +1,14 @@
-  Lately I have been learning a web framework called Meteor. Although I have experience with 
+---
+layout: essay
+type: essay
+title: The Meteor Challenge
+date: 2016-02-02
+labels:
+  - Meteor
+  - Web Frameworks
+---
+
+Lately I have been learning a web framework called Meteor. Although I have experience with 
 several frameworks, such as LibGDX for Java and Qt for C++,  neither of those were for the 
 web. Meteor has been a different experience altogether. 
 
