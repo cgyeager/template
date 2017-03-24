@@ -20,12 +20,12 @@ to do the entire project myself and only refer to the documentation for Meteor w
 stuck. Slowly but surely all the dots have been connected in my brain and my workflow is 
 speeding up.
 
-	While learning Meteor I was using a basic template provided by the professor of ICS 314 and 
+While learning Meteor I was using a basic template provided by the professor of ICS 314 and 
 it was confusing initially, because  the different files seemed scattered about. After working 
 with it long enough, making mistakes and figuring out those mistakes I was able to get a good 
 understanding of how the project was structured.
 
-	Just for fun, I recently starting playing around with the Django web framework made for Python. 
+Just for fun, I recently starting playing around with the Django web framework made for Python. 
 The frameworks are a bit different but there are also similarities as well. Meteor feels easier 
 to learn and is also faster getting a basic project up and running. It’s also nice that it can 
 use Javascript for both front end and back end.
