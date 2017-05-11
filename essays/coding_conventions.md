@@ -14,7 +14,7 @@ thing that I like do to, that I notice most people don’t, is set my curly brac
 
 For example:  
 ```
-if (some condtion)   
+if (some condition)   
 {    
     do something   
 }    
@@ -25,7 +25,7 @@ else
 ```
 Now compare that to:    
 ```
-if (some condtion) {        
+if (some condition) {        
     do something   
 } else {    
     do something else    
