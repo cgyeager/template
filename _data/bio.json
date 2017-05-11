@@ -97,6 +97,17 @@
   ],
   "work": [
     {
+      "company": "Amazon",
+      "position": "Software Development Engineer Intern",
+      "website": "https://www.amazon.com",
+      "startDate": "2017-5-31",
+      "endDate": "2017-8-18",
+      "summary": "",
+      "highlights": [
+        "Device Planning Team"
+      ]
+    },
+    {
       "company": "Specialized Protective Services",
       "position": "Security Contractor",
       "website": "https://aspensecurity.net",
