@@ -19,4 +19,4 @@ the main components of the engine are finished I will use it to create a simple 
 portfolio for applying to jobs in the games industry. I am no longer updating the source code to github.
 
 Current development screenshot after 3 weeks.
-<img class="ui medium right floated rounded image" src="../images/heightmap_terrain.png">
+<img class="ui medium right floated rounded image" src="../images/voxel_engine.jpg">
