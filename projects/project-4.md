@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scheduler.png
+image: images/voxel_engine.jpg
 title: Voxel Engine
 permalink: projects/voxelengine
 date: 2017
