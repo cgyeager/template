@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/update.jpg
+image: images/update02.png
 title: Voxel Engine
 permalink: projects/voxelengine
 date: 2017
@@ -23,3 +23,6 @@ Development screenshot after 3 weeks.
 Development screenshot after 7 weeks.
 Implemented better terrain generation, soft shadows, HDR tone mapping, and bloom
 <img class="ui medium right floated rounded image" src="../images/update.jpg">
+
+Update: prebaked ambient occlusion, hemispheric lighting, better trees, more occlusion culling
+<img class="ui medium right floated rounded image" src="../images/update02.png">
