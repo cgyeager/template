@@ -21,15 +21,15 @@ jobs in the games industry. I am no longer updating the source code to github.
 
 <p align="center">
 Development screenshot after 3 weeks:
-<img class="ui small right floated rounded image" src="../images/voxel_engine.jpg">
+<img class="ui medium right floated rounded image" src="../images/voxel_engine.jpg">
 </p>
 
 <p align="center">
 Development screenshot after 7 weeks.                            
 Implemented better terrain generation, soft shadows, HDR tone mapping, and bloom 
-<img class="ui small right floated rounded image" src="../images/update.jpg">   
+<img class="ui  medium right floated rounded image" src="../images/update.jpg">   
 </p>
 <p align="center">
 Update: prebaked ambient occlusion, hemispheric lighting, better trees, more occlusion culling
-<img class="ui small right floated rounded image" src="../images/update02.png">   
+<img class="ui medium right floated rounded image" src="../images/update02.png">   
 </p>
