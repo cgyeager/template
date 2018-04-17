@@ -6,7 +6,7 @@
     "email": "cgyeager@hawaii.edu",
     "phone": "808-798-8136",
     "website": "https://cgyeager.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. Portfolio at www.cgyeager.com",
     "location": {
       "address": "",
       "postalCode": "96818",
@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "cgyeager",
         "url": "http://linkedin.com/in/chris-yeager-6979b0ab"
-      },
-      {
-        "network": "www.cgyeager.com",
-        "username": "cgyeager",
-        "url": "http://www.cgyeager.com"
       }
     ]
   },
