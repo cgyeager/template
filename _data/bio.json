@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Chris Yeager",
-    "label": "Software Developer, Progeny Systems",
+    "label": "Software Developer",
     "picture": "/images/new_pic.jpg",
     "email": "cgyeager@hawaii.edu",
     "phone": "808-798-8136",
@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "96818",
-      "city": "Honolulu",
+      "city": "California
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Maryland
     },
     "profiles": [
       {
@@ -83,8 +83,7 @@
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
-      "endDate": "Present",
-      "gpa": "3.8",
+      "endDate": "2018-08-12",
       "courses": [
 	      "ICS 311",
 	      "ICS 314",
@@ -96,6 +95,17 @@
     }
   ],
   "work": [
+    {
+      "company": "Progeny Systems
+      "position": "Software Developer,
+      "website": "https://www.progeny.net",
+      "startDate": "2018-9-4",
+      "endDate": "present
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },	  
     {
       "company": "Amazon",
       "position": "Software Development Engineer Intern",
